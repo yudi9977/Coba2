@@ -1,4 +1,4 @@
 Cara Menggunakan GitHub
 1. Buat Akun
-2. Veryfikasi Email
-3. Bikin Repo dengan Menekan tombol +
+2. Bikin Repo dengan Menekan tombol +
+3. Mulai Lakukan Pekerjaan anda
