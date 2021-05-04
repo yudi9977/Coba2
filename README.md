@@ -1,3 +1,3 @@
 # Coba2
-Coba itHub
+Coba GitHub
 Mencoba Menggunakan GitHub
