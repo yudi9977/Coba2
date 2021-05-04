@@ -1,4 +1,6 @@
 Cara Menggunakan GitHub
 1. Buat Akun
+
 2. Bikin Repo dengan Menekan tombol +
+
 3. Mulai Lakukan Pekerjaan anda
